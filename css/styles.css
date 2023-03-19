@@ -1,0 +1,31 @@
+/* ---------------------------tag selector-------------------------- */
+body {
+    margin: 0px;
+}
+
+hr {
+    background-color:white ;
+    border-style: dotted;
+    border-top-style: none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1, h3 {
+    color: #45b29a;
+}
+
+div {
+    background-color: #E4F9F5;
+}
+
+/* ---------------------------class selector(can be used multiple times)-------------------------- */
+.picture {
+    width: 200px;
+}
+
+/* ---------------------------id selector(unique, and only 1 id for each element)-------------------------- */
+/* #name {
+    color: black
+} */
